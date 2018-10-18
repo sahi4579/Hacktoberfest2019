@@ -39,4 +39,5 @@
 |     Name      |             Github               |
 |---------------|----------------------------------|
 | Justen Phelps | https://github.com/justenbphelps |
+| Hritik Tayade | https://github.com/braceritchie  |
 | Jeff Horner   | https://github.com/jhorner32     |
