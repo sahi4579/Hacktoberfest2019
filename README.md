@@ -35,3 +35,7 @@
 |     Name      |             Github               |
 |---------------|----------------------------------|
 | Justen Phelps | https://github.com/justenbphelps |
+
+|     Name      |             Github               |
+|---------------|----------------------------------|
+| Stephen Pritchard | https://github.com/stevopritchard |
