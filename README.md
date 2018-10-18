@@ -1,4 +1,4 @@
-
+﻿
 <p align="center" style="background-color: #57283e;"><img src="https://hacktoberfest.digitalocean.com/assets/logo-hacktoberfest-658b5aa2bd34e782d29c40bf6afbdff00f20fe1328efa6da17743878ba8db66f.png"></p>
 
 # Hacktoberfest2018
@@ -42,3 +42,4 @@
 | Stephen Pritchard | https://github.com/stevopritchard |
 | Hritik Tayade | https://github.com/braceritchie  |
 | Jeff Horner   | https://github.com/jhorner32     |
+| Guido Sanchez | https://gitub.com/Guido2k	|
