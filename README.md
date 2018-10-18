@@ -15,6 +15,23 @@
 - Fork this Repo
 - Clone this Repo onto your local machine
 - Add your program *your-name.language* into the contributions folder
+- Add your name to the README.md file as a contributor
 - Push to your forked repo, and submit your Pull Request!
 
+
+
 ## 🎃 Happy Hacking! 🎃
+
+
+
+
+
+
+
+
+# Contributors
+----
+
+|     Name      |             Github               |
+|---------------|----------------------------------|
+| Justen Phelps | https://github.com/justenbphelps |
