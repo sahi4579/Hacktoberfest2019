@@ -13,10 +13,14 @@
 ### Instructions:
 
 - Fork this Repo
-- Clone this Repo onto your local machine
+- Navigate locally to the folder on your computer where you want to clone the repo
+- Clone this Repo onto your local machine `git clone PASTE_CLONED_REPO_URL`
+- Create a new branch `git branch NEW_BRANCH_NAME`
+- Navigate into your created branch `git checkout NEW_BRANCH_NAME`
 - Add your program *your-name.language* into the contributions folder
 - Add your name to the README.md file as a contributor
-- Push to your forked repo, and submit your Pull Request!
+- Push your branch to your forked repo `git push origin NEW_BRANCH_NAME`
+- Submit your Pull Request!
 
 
 
@@ -35,7 +39,8 @@
 |     Name      |             Github               |
 |---------------|----------------------------------|
 | Justen Phelps | https://github.com/justenbphelps |
-
 |     Name      |             Github               |
 |---------------|----------------------------------|
 | Stephen Pritchard | https://github.com/stevopritchard |
+| Hritik Tayade | https://github.com/braceritchie  |
+| Jeff Horner   | https://github.com/jhorner32     |
