@@ -35,3 +35,4 @@
 |     Name      |             Github               |
 |---------------|----------------------------------|
 | Justen Phelps | https://github.com/justenbphelps |
+| Jeff Horner   | https://github.com/jhorner32     |
