@@ -45,3 +45,4 @@
 | Guido Sanchez | https://gitub.com/Guido2k	|
 | Forrest Eastland | https://github.com/eastman81 |
 | Frank Carlone | https://github.com/fcarlone |
+| Faaiz Ali Khan | https://github.com/goprime10 |
