@@ -43,3 +43,4 @@
 | Hritik Tayade | https://github.com/braceritchie  |
 | Jeff Horner   | https://github.com/jhorner32     |
 | Guido Sanchez | https://gitub.com/Guido2k	|
+| Forrest Eastland | https://github.com/eastman81 |
