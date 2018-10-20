@@ -47,3 +47,4 @@
 | Frank Carlone | https://github.com/fcarlone |
 | Faaiz Ali Khan | https://github.com/goprime10 |
 | Matt Rudin | https://github.com/mattrudin |
+| Serhii Makhov | https://github.com/deadid |
