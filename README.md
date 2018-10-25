@@ -49,3 +49,4 @@
 | Matt Rudin | https://github.com/mattrudin |
 | Serhii Makhov | https://github.com/deadid |
 | Grace Witter | https://github.com/gracewitter |
+| Parinya Onsuwan| https://github.com/parinz1234 |
