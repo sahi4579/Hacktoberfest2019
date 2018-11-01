@@ -50,3 +50,4 @@
 | Serhii Makhov | https://github.com/deadid |
 | Grace Witter | https://github.com/gracewitter |
 | Parinya Onsuwan| https://github.com/parinz1234 |
+| Fonkeng Rocard | https://github.com/Roc4rdho |
