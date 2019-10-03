@@ -1,7 +1,6 @@
 ﻿
 <p align="center" style="background-color: #57283e;"><img src="https://imgur.com/n8ooeHc.png"></p>
 
-# ~~Hacktoberfest2018~~
 # Hacktoberfest 2019
 ## Why did you become a developer?
 
