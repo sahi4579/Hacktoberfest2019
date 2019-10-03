@@ -1,15 +1,23 @@
 ﻿
 <p align="center" style="background-color: #57283e;"><img src="https://hacktoberfest.digitalocean.com/assets/logo-hacktoberfest-658b5aa2bd34e782d29c40bf6afbdff00f20fe1328efa6da17743878ba8db66f.png"></p>
 
-# Hacktoberfest2018
+# ~~Hacktoberfest2018~~
+# Hacktoberfest 2019
 ## Why did you become a developer?
 
 
-#### Hello! Happy Hacktoberfest 2018!
+#### Hello! Happy Hacktoberfest ~~2018~~ 2019!
 #### In the spirit of the event, and to help new developers become familiar with the Fork / Pull Request flow, i've created this Repo as an easy way to try it out!
+
+##### 2019 Edit:
+```
+2018 Hacktoberfest went over so well that we are continuing the tradition
+and now using the same repository for Hacktoberfest 2019! 
+```
 
 --------------
 🎉 Create a simple program in your favorite language that displays why you became a developer! 
+
 ### Instructions:
 
 - Fork this Repo
@@ -18,7 +26,7 @@
 - Create a new branch `git branch NEW_BRANCH_NAME`
 - Navigate into your created branch `git checkout NEW_BRANCH_NAME`
 - Add your program *your-name.language* into the contributions folder
-- Add your name to the README.md file as a contributor
+- **Add your name to the README.md file as a contributor**
 - Push your branch to your forked repo `git push origin NEW_BRANCH_NAME`
 - Submit your Pull Request!
 
