@@ -38,6 +38,7 @@
 
 |     Name      |             Github               |
 |---------------|----------------------------------|
+| Karen Garcia | https://github.com/saykaren |
 | Justen Phelps | https://github.com/justenbphelps |
 | Stephen Pritchard | https://github.com/stevopritchard |
 | Hritik Tayade | https://github.com/braceritchie  |
