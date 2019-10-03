@@ -59,4 +59,5 @@ and now using the same repository for Hacktoberfest 2019!
 | Grace Witter | https://github.com/gracewitter |
 | Parinya Onsuwan| https://github.com/parinz1234 |
 | Fonkeng Rocard | https://github.com/Roc4rdho |
+| Nobody Nose | https://github.com/nobodyn0se |
 | João Victor Andrade | https://github.com/Jandrade2k |
