@@ -61,3 +61,4 @@ and now using the same repository for Hacktoberfest 2019!
 | Fonkeng Rocard | https://github.com/Roc4rdho |
 | Nobody Nose | https://github.com/nobodyn0se |
 | João Victor Andrade | https://github.com/Jandrade2k |
+| Leon Koop | https://github.com/LeonK-UnnaturalD |
