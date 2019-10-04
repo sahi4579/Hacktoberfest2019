@@ -62,3 +62,4 @@ and now using the same repository for Hacktoberfest 2019!
 | Nobody Nose | https://github.com/nobodyn0se |
 | João Victor Andrade | https://github.com/Jandrade2k |
 | Leon Koop | https://github.com/LeonK-UnnaturalD |
+| Ahmad Ainul Rizki | https://github.com/tanahatas |
