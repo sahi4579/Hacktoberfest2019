@@ -64,5 +64,6 @@ and now using the same repository for Hacktoberfest 2019!
 | Leon Koop | https://github.com/LeonK-UnnaturalD |
 | Ahmad Ainul Rizki | https://github.com/tanahatas |
 | Priyanka Rajput | https://github.com/Priyankarajput1 |
+| Paul | https://github.com/pauliax |
 | Shelly Sharma | https://github.com/priyaR546 |
 | Maris Klava | https://github.com/marksklava |
