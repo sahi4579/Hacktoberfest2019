@@ -67,4 +67,5 @@ and now using the same repository for Hacktoberfest 2019!
 | Paul | https://github.com/pauliax |
 | Shelly Sharma | https://github.com/priyaR546 |
 | Maris Klava | https://github.com/marksklava |
+| Akshita Sah | https://github.com/akshi0409 |
 | Hannah Guo | https://github.com/HannahGuo |
